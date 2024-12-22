@@ -1,0 +1,46 @@
+.background_image {
+
+ background: url(../../image/home/home1.png) no-repeat;
+    /* background-size: cover; */
+
+    width: 100%;
+
+
+}
+.row {
+  justify-content: space-between;
+
+  /* width: 1300px; */
+}
+.container{
+  margin-top: 7rem;
+
+}
+.form_image{
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo_image{
+  display: block;
+  margin: 0 auto;
+  height: 284px;
+  width: 342px;
+
+}
+.container {
+
+}
+.btn-login {
+  font-size: 0.7rem;
+  letter-spacing: 0.15rem;
+  padding: 0.75rem 5rem;
+}
+
+
+
+/* .background_home{
+
+ width: 1920px; height: 980px; top: 0px; left: 0px; position: flex;
+} */
